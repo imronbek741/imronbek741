@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav{
+    background-color: black;
+
+}
+
+.container{
+ width: 1240;
+margin:0 auto;
+}
+
+.links{
+ display: flex;
+ justify-content: space-between;
+}
+
+.ul{
+    display: flex;
+    justify-content: space-between;
+    width: 383px;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 383px;
+    align-items: center;
+
+}
+
+.div{
+    display: flex;
+    justify-content: space-between;
+    width: 383px;
+    align-items: center;
+
+}
